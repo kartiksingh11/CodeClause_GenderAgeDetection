@@ -11,5 +11,5 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
     Gender: Female
     Age: 8-12 years
     
-<img src="CodeClause_GenderAgeDetection/girl2.png">
+<img src="CodeClause_GenderAgeDetection girl2.jpg">
 
