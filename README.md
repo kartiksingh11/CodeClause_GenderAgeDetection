@@ -10,6 +10,5 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
     >python detect.py --image girl2.jpg
     Gender: Female
     Age: 8-12 years
-    
-<img src="CodeClause_GenderAgeDetection girl2.jpg">
 
+![girl2](https://github.com/kartiksingh11/CodeClause_GenderAgeDetection/assets/75480349/e97bdb77-9310-4bad-a67e-65129a9a9a1f)
