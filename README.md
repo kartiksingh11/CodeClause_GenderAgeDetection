@@ -11,4 +11,4 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
     Gender: Female
     Age: 8-12 years
 
-![girl2](https://github.com/kartiksingh11/CodeClause_GenderAgeDetection/assets/75480349/e97bdb77-9310-4bad-a67e-65129a9a9a1f)
+![girl2](https://github.com/kartiksingh11/CodeClause_GenderAgeDetection/assets/75480349/e97bdb77-9310-4bad-a67e-65129a9a9a1f) ![Detecting age and gender girl2](https://github.com/kartiksingh11/CodeClause_GenderAgeDetection/assets/75480349/7e0307ea-bf5c-4c08-a20c-15bb4ff737f8)
